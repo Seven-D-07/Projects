@@ -65,7 +65,7 @@ void generateBillFooter(float total){
 	
 }
 
-/* It is the main program to run this project by selecting perferred using switch*/
+/* It is the main program to run this project by selecting operation perferred using switch*/
 
 int main() {
 	int opt,n,i;
